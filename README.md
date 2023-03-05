@@ -76,7 +76,7 @@
 <ul>
 
 <li>
-<a href="https://instagram.com/in/pedrofarias754" target="_blank">
+<a href="https://instagram.com/pedrofarias754" target="_blank">
 <img src="https://img.shields.io/badge/Instagram:  pedrofarias754-%23E4405F?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 </li>
