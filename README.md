@@ -65,7 +65,10 @@
 <br>
 <br>
 <br>
+
+
 ![Snake animation](https://github.com/PedrooH0/PedrooH0/blob/output/github-contribution-grid-snake.svg)
+
 
 -----
 
