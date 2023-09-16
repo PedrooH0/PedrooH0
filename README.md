@@ -7,7 +7,6 @@
 
 
 <br>
-<br>
 
 
 ## <img src="https://media.giphy.com/media/PkGLJIKYcgCYrxdpks/giphy.gif" width="35"><b> Github Stats </b>
