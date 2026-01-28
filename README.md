@@ -1,39 +1,23 @@
-
-<h1 align="center"><b>Olá , meu nome é Pedro Henrique </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Olá Mundo 👋"></a>
-</p>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001C80&height=120&section=header"/>
+<h1 align="center"><b>Olá, meu nome é Pedro Henrique </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
+<div>
 
-## <img src="https://media.giphy.com/media/PkGLJIKYcgCYrxdpks/giphy.gif" width="35"><b> Github Stats </b>
+<div display="flex" flex-direction="column" justify align="center" >  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedrooH0&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=001C80&text_color=FFFFFF&bg_color=0d1117" alt="Pedro Henrique github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrooH0&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+</div>
 
-
-<div align="center">
-
-<a href="https://github.com/PedrooH0">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedrooH0&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedrooH0&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="PedrooH0"/>
-  
-  
-
-</a>
 </div>
 
 <br>
 
 
-
-
-
------
-
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Habilidades**
+## **Habilidades**
 
 <br>
 
@@ -80,20 +64,9 @@
 
 </p>
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-
-
-
-
-
-<br>
 <br>
 
-## <b> Fale comigo..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Contatos</b>
 <br>
 <div align='left'>
 
@@ -108,8 +81,8 @@
 <br>
 
 <li>
-<a href="mailto:phfarias210120@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  phfarias210120@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:pedrofarias210120@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  pedrofarias210120@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -117,20 +90,5 @@
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
 
-<div align='center'>
-
-## <b>Nunca desista dos seus sonhos...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-
----
-
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001C80&height=120&section=footer"/>
