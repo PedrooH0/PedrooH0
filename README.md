@@ -3,21 +3,59 @@
 
 <br>
 
-<div>
+<!--<div>
 
 <div display="flex" flex-direction="column" justify align="center" >  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedrooH0&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=001C80&text_color=FFFFFF&bg_color=0d1117" alt="Pedro Henrique github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrooH0&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-</div>
+</div> -->
 
-<br>
+<h2>
+	Sobre mim:
+</h2>
 
+<p>
+	- Tenho 19 anos
+</p>
+
+<p>
+	- Sou graduado em Técnico em informática no IFCE campus Fortaleza
+</p>
+
+<p>
+	- Sou graduando em Ciência da Computação no IFCE campus Maracanaú
+</p>
+
+<p>
+	- Experiência em gerenciamento de projetos para aplicações web e mobile
+</p>
+
+<p>
+	- Experiência em trabalhos em equipe, organização de projetos e liderança
+</p>
+
+
+
+<h3>Contatos:</h3>
+
+
+<a href="https://instagram.com/pedrofarias754" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F?color=001C80&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram />
+</a>
+
+<a href="mailto:pedrofarias210120@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?color=001C80&style=for-the-badge&logo=gmail&logoColor=white" alt=mail/>
+</a>
+
+<a href="https://www.linkedin.com/in/pedro-henrique-093538288/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-0F132E.svg?color=001C80&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
+</a>
 
 <br>
 	
-## **Habilidades**
+## **Habilidades:**
 
 <br>
 
@@ -66,29 +104,6 @@
 
 <br>
 
-## <b> Contatos</b>
-<br>
-<div align='left'>
 
-<ul>
-
-<li>
-<a href="https://instagram.com/pedrofarias754" target="_blank">
-<img src="https://img.shields.io/badge/Instagram:  pedrofarias754-%23E4405F?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:pedrofarias210120@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  pedrofarias210120@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001C80&height=120&section=footer"/>
